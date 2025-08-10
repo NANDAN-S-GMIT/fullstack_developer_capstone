@@ -2,7 +2,7 @@
 
 **Author:** Nandan S  
 Full Stack Developer | Java | Python | React | Spring Boot  
-🔗 GitHub: [NANDAN-S-GMIT](https://github.com/NANDAN-S-GMIT) | LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nandans-devloper/)
+🔗 GitHub: [NANDAN-S](https://github.com/NANDAN-S-GMIT) | LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nandans-devloper/)
 
 
 ---
