@@ -124,3 +124,75 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+/*Contact Us */
+.contact-card {
+    background-color: #fdfdfd;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    margin-top: 40px;
+  }
+  
+  .contact-title {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .contact-title p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .contact-avatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .contact-info p {
+    font-size: 18px;
+    color: #444;
+    margin-bottom: 16px;
+    line-height: 1.6;
+  }
+  
+  .contact-info p strong {
+    color: #5c2d91;
+  }
+  
+  .contact-info a {
+    color: #2b5ba9;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  
+  .contact-actions {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .contact-actions a {
+    background-color: #5c2d91;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .contact-actions a:hover {
+    background-color: #472075;
+  }
